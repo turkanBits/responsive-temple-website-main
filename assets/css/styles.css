@@ -290,6 +290,21 @@ img {
     column-gap: 4rem;
     
   }
+
+  .home__container{
+    height: 960px;
+  }
+
+  .home__data{
+    max-width:610px;
+    text-align: initial;
+    margin: 0;
+  }
+
+  .home__description{
+    padding-right:8rem;
+    margin-bottom: 3rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152) */
