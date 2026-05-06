@@ -225,6 +225,15 @@ img {
 
 }
 
+.home__images img{
+  position: absolute;
+  max-width: initial;
+  width: 800px;
+  right: -9.2rem;
+  bottom: 0;
+  filter: saturate(1.3);
+}
+
 
 /* Sakura petals */
 
