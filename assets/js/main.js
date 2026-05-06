@@ -41,6 +41,7 @@ window.addEventListener('scroll', blurHeader)
 /*=============== GSAP ANIMATION ===============*/
 gsap.from('.home__img-1', 5, {opacity:0, x:400})
 gsap.from('.home__img-6', 1.5, {opacity:0, y:200, delay: .1,ease:'back.out(1.5)'})
+gsap.from('.home__img-3', 1.5, {opacity:0, y:400, delay: .3,ease:'back.out(1.5)'})
 
 
 /*=============== SAKURA ANIMATION ===============*/
