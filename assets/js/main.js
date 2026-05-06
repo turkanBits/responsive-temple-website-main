@@ -50,4 +50,4 @@ gsap.from('.home__lantern-1', 1.5, {opacity:0, x:70, delay:3,ease:'back.out(1.5)
 gsap.from('.home__lantern-2', 1.5, {opacity:0, x:-70, delay:3.5,ease:'back.out(1.5)'})
 
 /*=============== SAKURA ANIMATION ===============*/
-
+const sakura =new Sakura('.sakura-petals')
