@@ -158,7 +158,7 @@ img {
   position: absolute;
   width: 1000%;
   height: 100%;
-  background-color: hsla(353, 90%,56%,.4);
+  background-color: hsla(353, 98%, 90%, 0.4);
   backdrop-filter: blur(16px);
   -webkit-backdrop-filter:blur(16px) ;
   top: 0;

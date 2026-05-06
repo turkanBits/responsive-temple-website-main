@@ -39,6 +39,7 @@ const blurHeader = () =>{
 window.addEventListener('scroll', blurHeader)
 
 /*=============== GSAP ANIMATION ===============*/
+gsap.from('.home__img-1', 5, {opacity:0, x:400})
 
 
 /*=============== SAKURA ANIMATION ===============*/
